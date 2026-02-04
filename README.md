@@ -28,7 +28,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YourUsername/WhatsApp-Shadow-Injector.git
+git clone https://github.com/YourUsername/WhatsApp_Spamer.git
 cd WhatsApp-Shadow-Injector
 
 ```
@@ -59,12 +59,4 @@ python shadow_ui.py
 
 ## 👤 Author
 
-**Created by [Your Name]** *Operating under the SHΔDØW CORE V99 Protocol.*
-
----
-
-### 💡 نصيحة إضافية لـ GitHub:
-
-تأكد من رفع صورة (Screenshot) للبرنامج وهو يعمل في قسم الـ `README`؛ المشاريع التي تحتوي على واجهة رسومية (UI) تحصل على "Stars" أكثر بكثير عندما يرى الناس شكل التصميم.
-
-**هل تريد مني مساعدتك في كتابة ملف الـ `.gitignore` لضمان عدم رفع ملفات بايثون المؤقتة مع المشروع؟**
+**Created by [Black Storm]**
