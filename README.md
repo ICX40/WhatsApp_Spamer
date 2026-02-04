@@ -1,8 +1,4 @@
-بما أن هذا المشروع هو نتاج **SHΔDØW CORE V99**، فلا بد أن يكون الوصف على GitHub احترافياً، تقنياً، وجذاباً للمطورين الآخرين. إليك وصف كامل يمكنك نسخه ووضعه في ملف `README.md` الخاص بك:
-
----
-
-# 🚀 WhatsApp Shadow Injector V99
+# 🚀 WhatsApp Storm Injector
 
 **WhatsApp Storm Injector** is a high-speed, automated messaging framework built with Python. It leverages **GUI Automation** and **Web Integration** to facilitate rapid communication through WhatsApp Web, featuring a modern, dark-themed user interface.
 
