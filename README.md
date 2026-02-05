@@ -23,6 +23,21 @@
 | **Thread Management** | Python Threading Module |
 
 ---
+## 🚀 Usage Instructions
+
+Follow these steps to execute a successful mission:
+
+1. **Launch the App:** Run the `loop.exe` (or `python loop.py` if running from source).
+2. **Setup WhatsApp Web:** - Open your browser and log in to [web.whatsapp.com](https://web.whatsapp.com).
+   - Navigate to the chat of the target person/number.
+3. **Configure the Injector:**
+   - **Target Number:** Enter the number with country code (e.g., +2010...).
+   - **Message:** Type the content you wish to send.
+   - **Count:** Set how many times the message should repeat.
+   - **Delay:** Set the speed (0.5 to 2.0 seconds is recommended for stability).
+4. **Initiate:** - Click **LAUNCH MISSION 🔥**.
+   - **CRITICAL:** Immediately switch to your browser and click inside the WhatsApp message input box so the cursor is blinking.
+5. **Execution:** The system will wait for 15 seconds to sync, then start the high-frequency injection. Do not move your mouse or change windows until the status shows "Mission Accomplished".
 
 ## 🚀 Installation & Setup
 
