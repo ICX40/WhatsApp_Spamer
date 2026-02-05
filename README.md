@@ -27,7 +27,7 @@
 
 Follow these steps to execute a successful mission:
 
-1. **Launch the App:** Run the `loop.exe` (or `python loop.py` if running from source).
+1. **Launch the App:** Run the `Storm_Spamer.exe` (or `python Storm_Spamer.py` if running from source).
 2. **Setup WhatsApp Web:** - Open your browser and log in to [web.whatsapp.com](https://web.whatsapp.com).
    - Navigate to the chat of the target person/number.
 3. **Configure the Injector:**
